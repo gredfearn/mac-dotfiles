@@ -1,5 +1,5 @@
 ### NOTE
-This repo has been deprecated. Use https://gredfearn/dotfiles for nix configurations. 
+This repo has been deprecated. Use https://github.com/gredfearn/dotfiles for nix configurations. 
 
 # Installation:
 
