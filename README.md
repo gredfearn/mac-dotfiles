@@ -1,3 +1,6 @@
+### NOTE
+This repo has been deprecated. Use https://gredfearn/dotfiles for nix configurations. 
+
 # Installation:
 
 ```
